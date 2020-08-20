@@ -1,2 +1,2 @@
 import-module servermanager
-add-windowsfeatur web-server -includeallsubfeature
+add-windowsfeature web-server -includeallsubfeature
